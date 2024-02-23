@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #a5a5a5;
+    transition: background-color 0.5s ease;
+}
+
+button{
+    margin-left: 3px;
+    padding: 10px;
+}
