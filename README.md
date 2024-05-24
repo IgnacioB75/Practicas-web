@@ -1,4 +1,4 @@
-**🌐 Diversos proyectos hechos en la Web🌐**
+**🌐 Diversos proyectos hechos en la Web 🌐**
 ---------------------------------------------
 
 Esto es un repositorio de diversos proyectos personales hechos en lenguajes como HTML, CSS y JavaScript, además de probar tecnologías o funcionalidades
